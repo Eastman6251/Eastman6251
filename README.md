@@ -55,18 +55,4 @@ I won't be able to respond to emails for some time.
 
 Keep me and my work alive!
 
-<a href="https://github.com/sponsors/Eastman6251" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA">
-</a>
-<a href="https://ko-fi.com/Z8Z2EFH5A" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-</a>
-<a href="https://venmo.com/daijro" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Venmo-008CFF?style=for-the-badge&logo=v&logoColor=white">
-</a>
-<a href="https://www.bitcoinqrcodemaker.com/pay/?type=2&style=bitcoin&address=1G9W9zBAyDmN8wE3LR5JjVbU6LnXBHLKF8" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Bitcoin-E67132?style=for-the-badge&logo=bitcoin&logoColor=white">
-</a>
-<a href="https://www.bitcoinqrcodemaker.com/pay/?type=2&style=monero&address=4B9QaXYesx2ep4PkMuXrR31uMEzNwMqGyKw5sDTyg6ff5PSCXjSULYAP3Bk2TWyVvcRkv11wRyj7JXbUaBvAmXNWBCt2xxf" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Monero-4F44D6?style=for-the-badge&logo=monero&logoColor=white">
-</a>
+Crafted with ❤️ by Eastman
