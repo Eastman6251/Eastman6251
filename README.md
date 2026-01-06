@@ -47,6 +47,5 @@ I am currently open to discussing new opportunities and collaborations.
 </sub>
 
 <hr width=50>
-
-=======================
+--------------
 Crafted with ❤️ by Eastman
