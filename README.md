@@ -19,11 +19,11 @@ clean, efficient, and scalable code. 👨‍💻*
 ---
 
 #### ✨ My hobbies include:
-*
  - 🔭 Focus: Scalable Architecture, AI/ML Integration, Full-Cycle Development.
  - 🌱 Current Stack: PHP, Python (Django/FastAPI), React, Node.js, and Cloud Infrastructure.
  - ⚡ Philosophy: Clean code, efficient delivery, and continuous improvement.
-*
+
+ - ---
 
 #### 💻 Skills
 
