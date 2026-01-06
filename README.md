@@ -1,6 +1,6 @@
 <p align="center">
 <h3 align="center">Hi there 👋</h3>
-<p align="center">I'm Eastman, with 8+ years experience - Senor Software Engineer with an Web development.</p>
+<p align="center">I'm Eastman, with 8+ years experience - Senior Software Engineer.</p>
 <p align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/daijro?color=4caf50&style=for-the-badge">
 <img alt="Downloads" src="https://img.shields.io/github/followers/daijro?color=0f80c1&style=for-the-badge">
@@ -11,9 +11,10 @@
 
 # 🚨 Please read
 
-**Hello! In March 2025, I had a medical emergency and have been hospitalized since. As a result, I haven’t been able to maintain Camoufox and my other projects, nor have I been able to respond to emails or tickets. My situation has continued to escalate, and I will be unable to continue my work for a while.**
+**Senior Full Stack Software Engineer with 8+ years of experience designing and delivering scalable, high-performance web applications. Proven expertise across the full development lifecycle, including frontend architectures, backend services, databases, and API integrations.**
 
-**I was previously updating my libraries daily, and I plan to return to that as soon as I'm able. I hope to be back and caught up by the end of 2025. Thank you for your patience and understanding. ❤️**
+**Experienced working with startups, SMEs, and enterprise teams, building reliable, maintainable solutions that align with both business goals and user needs. Strong collaborator who works closely with product managers, designers, and engineers to translate requirements into production-ready systems. Highly effective in independent and distributed team environments, applying modern development practices to deliver
+clean, efficient, and scalable code. 👨‍💻*
 
 ---
 
