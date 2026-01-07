@@ -2,8 +2,6 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">I'm J.Eastman, with 8+ years experience - Senior Software Engineer.</p>
 <p align="center">
-<img alt="Stars" src="https://img.shields.io/github/stars/daijro?color=4caf50&style=for-the-badge">
-<img alt="Downloads" src="https://img.shields.io/github/followers/daijro?color=0f80c1&style=for-the-badge">
 </p>
 
 </p>
