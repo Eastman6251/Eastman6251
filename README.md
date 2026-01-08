@@ -26,11 +26,11 @@ clean, efficient, and scalable code. 👨‍💻*
 #### 💻 Skills
 - Front-End:
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,tailwindcss,bootstrap"/>
 
 - Back-End:
   
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,python,django,flask,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,python,django,flask" />
 
 - Database:
   
