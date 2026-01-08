@@ -38,7 +38,7 @@ clean, efficient, and scalable code. 👨‍💻*
   
 - CMS:
   
-  <img src="https://skillicons.dev/icons?i=wordpress,shopify,joomlas,drupal,magento,wooCommerce,strapi,contentful,sanity" />
+  <img src="https://skillicons.dev/icons?i=wordpress,joomla,drupal,magento,wooCommerce,strapi,contentful,sanity" />
 
 - AI:
   
