@@ -50,7 +50,7 @@ clean, efficient, and scalable code. 👨‍💻*
 
 #### 🔨 Workspace
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,ubuntu,windows,git,github,docker,aws,jira" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,ubuntu,windows,git,jira" />
 
 ---
 
