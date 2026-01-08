@@ -26,7 +26,7 @@ clean, efficient, and scalable code. 👨‍💻*
 #### 💻 Skills
 - Front-End:
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,tailwindcss,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,svelte,tailwindcss,bootstrap,sass,less,webpack,vite,babel,three.js,d3js"/>
 
 - Back-End:
   
