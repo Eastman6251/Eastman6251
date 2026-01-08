@@ -24,29 +24,29 @@ clean, efficient, and scalable code. 👨‍💻*
  - ---
 
 #### 💻 Skills
-- Front-End -
+- Front-End:
   
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular"/>
 
-- Back-End -
+- Back-End:
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,python,django,flask" />
 
 - Database -
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi,graphql,mysql,postgres,mongodb,dynamodb" />
   
 - CMS -
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=wordpress,shopify" />
 
 - AI -
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
 
 - DevOps -
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify" />
 
 #### 🔨 Workspace
 
