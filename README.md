@@ -38,7 +38,7 @@ clean, efficient, and scalable code. 👨‍💻*
   
 - CMS:
 
-  <img src="https://skillicons.dev/icons?i=wordpress,sanity" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 
 - AI:
 
@@ -51,7 +51,7 @@ clean, efficient, and scalable code. 👨‍💻*
 
 #### 🔨 Workspace
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,ubuntu,windows,git,jira,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,ubuntu,windows,git,postman" />
 
 ---
 
