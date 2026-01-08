@@ -25,8 +25,17 @@ clean, efficient, and scalable code. 👨‍💻*
 
 #### 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+Front-End: <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
 
+Back-End: <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+
+Database: <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+
+CMS: <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+
+AI: <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
+
+DevvOps: <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
 
 #### 🔨 Workspace
 
