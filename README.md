@@ -25,12 +25,12 @@ clean, efficient, and scalable code. 👨‍💻*
 
 #### 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=python,qt,powershell,bash,go,c,cpp,java,sqlite,opencv,js,css,html,ai,figma,aws,terraform,docker,git,github,gitlab,heroku,cloudflare,firebase,spring,rabbitmq,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,nodejs,nestjs,express,php,laravel,symfony,python,django,flask,fastapi,graphql,mysql,postgres,mongodb,dynamodb,wordpress,shopify,aws,docker,git,github,vercel,netlify,ai,tensorflow,pytorch" />
 
 
 #### 🔨 Workspace
 
-<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,kali,linux,raspberrypi,vim,neovim,idea,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,ubuntu,windows,git,github,docker,aws,jira" />
 
 ---
 
