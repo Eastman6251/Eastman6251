@@ -42,7 +42,7 @@ clean, efficient, and scalable code. 👨‍💻*
 
 - AI:
 
-  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,jupyter" />
+  <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
 
 - DevOps:
 
