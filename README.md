@@ -61,10 +61,6 @@ clean, efficient, and scalable code. 👨‍💻*
 📨 Email: <a href="mailto:>eastmanjoshuah@gmail.com">eastmanjoshuah@gmail.com</a>
 </div>
 
-<sub>
-I am currently open to discussing new opportunities and collaborations.
-</sub>
-
 <hr width=50>
 --------------
 Crafted with ❤️ by Eastman
