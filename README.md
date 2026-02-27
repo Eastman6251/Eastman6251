@@ -58,9 +58,9 @@ clean, efficient, and scalable code. 👨‍💻*
 #### 👤 Contact
 
 <div style="margin-bottom: 0;">
-📨 Email: <a href="mailto:>eastmanjoshuah@gmail.com">eastmanjoshuah@gmail.com</a>
+📨 Email: <a href="mailto:>Tyler.b.0910@hotmail.com>Tyler.b.0910@hotmail.com</a>
 </div>
 
 <hr width=50>
 --------------
-Crafted with ❤️ by Eastman
+Crafted with ❤️ by Tyler
