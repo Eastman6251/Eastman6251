@@ -1,6 +1,6 @@
 <p align="center">
 <h3 align="center">Hi there 👋</h3>
-<p align="center">I'm J.Eastman, with 8+ years experience - Senior Software Engineer.</p>
+<p align="center">I'm Tyler.B, with 9+ years experience - Senior Software Engineer.</p>
 <p align="center">
 </p>
 
@@ -9,7 +9,7 @@
 
 # 🚨 About ME
 
-**Senior Full Stack Software Engineer with 8+ years of experience designing and delivering scalable, high-performance web applications. Proven expertise across the full development lifecycle, including frontend architectures, backend services, databases, and API integrations.**
+**Senior Full Stack Software Engineer with 9+ years of experience designing and delivering scalable, high-performance web applications. Proven expertise across the full development lifecycle, including frontend architectures, backend services, databases, and API integrations.**
 
 *Experienced working with startups, SMEs, and enterprise teams, building reliable, maintainable solutions that align with both business goals and user needs. Strong collaborator who works closely with product managers, designers, and engineers to translate requirements into production-ready systems. Highly effective in independent and distributed team environments, applying modern development practices to deliver
 clean, efficient, and scalable code. 👨‍💻*
