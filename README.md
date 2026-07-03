@@ -1,6 +1,6 @@
 <p align="center">
 <h3 align="center">Hi there 👋</h3>
-<p align="center">I'm Tyler.B, with 9+ years experience - Senior Software Engineer.</p>
+<p align="center">I'm Dallas, with 9+ years experience - Senior Software Engineer.</p>
 <p align="center">
 </p>
 
@@ -35,10 +35,6 @@ clean, efficient, and scalable code. 👨‍💻*
 - Database:
   
   <img src="https://skillicons.dev/icons?i=graphql,mysql,postgres,mongodb,dynamodb,sqlite,redis,firebase" />
-  
-- CMS:
-
-  <img src="https://skillicons.dev/icons?i=wordpress" />
 
 - AI:
 
@@ -58,9 +54,9 @@ clean, efficient, and scalable code. 👨‍💻*
 #### 👤 Contact
 
 <div style="margin-bottom: 0;">
-📨 Email: <a href="mailto:>Tyler.b.0910@hotmail.com>Tyler.b.0910@hotmail.com</a>
+📨 Email: <a href="mailto:>dallasplaywin26@outlook.com>dallasplaywin26@outlook.com</a>
 </div>
 
 <hr width=50>
 --------------
-Crafted with ❤️ by Tyler
+Crafted with ❤️ by Dallas
